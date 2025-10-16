@@ -46,7 +46,7 @@ I enjoy building web and mobile applications with clean architecture and practic
 
 ### 🏅 Achievements
 - 🥇 **1st Place** – *UNIFRAN Hackathon 2024*  
-- 🚀 **4th Place** – *NASA Space Apps Challenge Ribeirão Preto (2024)*  
+- 🚀 **4th Place** – *NASA Space Apps Challenge Ribeirão Preto (2025)*  
 - 💡 Built projects combining web/mobile, data processing, and ML components
 
 ---
