@@ -56,7 +56,7 @@ I enjoy building web and mobile applications with clean architecture and practic
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaoberetta_)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaopedrobb2013@gmail.com)
 
-"*
+
 
 
 
