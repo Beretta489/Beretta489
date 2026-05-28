@@ -1,4 +1,3 @@
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&text=&fontSize=0" width="100%"/>
 
 <div align="center">
@@ -21,8 +20,7 @@
 
 ## ◈ About
 
-| | |
-|---|---|
+
 | **👤 Name** | João Pedro Beretta Bueno |
 | **💼 Role** | Full Stack Developer & Automation Engineer |
 | **🎓 Degree** | B.Sc. Computer Science — UNIFRAN ✓ |
@@ -80,12 +78,12 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Beretta489&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beretta489&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Beretta489&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&rank_icon=github&cache_seconds=1800" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beretta489&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&cache_seconds=1800" />
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Beretta489&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Beretta489&theme=react-dark&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true" width="100%"/>
 
 </div>
 
