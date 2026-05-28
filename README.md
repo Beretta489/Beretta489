@@ -77,13 +77,32 @@
 
 ## ◈ Currently
 
-```text
-🔨  Building     Automated systems & full-stack products
-📖  Studying     Advanced n8n flows & AI integration patterns
-🌍  Looking for  Freelance projects & interesting collaborations
-🎯  Goal 2025    Ship 3 production-ready automation projects
-💬  Ask me about React Native · n8n · Python · App Architecture
-```
+<br/>
+
+### 🔨 &nbsp; What I'm building
+> Automated systems and full-stack products that solve real problems — combining web, mobile, and n8n pipelines into end-to-end solutions.
+
+<br/>
+
+### 📖 &nbsp; What I'm studying
+> Advanced n8n flow design, AI agent integration, and scalable backend architecture patterns. Always adding something new to the stack.
+
+<br/>
+
+### 🌍 &nbsp; What I'm looking for
+> Freelance projects, collaborations, and opportunities where I can deliver real impact — especially in automation, app development, or AI-powered tools.
+
+<br/>
+
+### 🎯 &nbsp; Goal for 2025
+> Ship **3 production-ready automation projects** and grow my freelance client base. Build things that run while I sleep.
+
+<br/>
+
+### 💬 &nbsp; Ask me about
+> `React Native` &nbsp;·&nbsp; `n8n` &nbsp;·&nbsp; `Python` &nbsp;·&nbsp; `Workflow Automation` &nbsp;·&nbsp; `App Architecture` &nbsp;·&nbsp; `API Integration`
+
+<br/>
 
 ---
 
@@ -129,7 +148,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Beretta489&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://visitcount.itsvg.in/api?id=Beretta489&label=Profile%20Views&color=1&icon=5&pretty=true)
 
 <br/>
 
