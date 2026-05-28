@@ -20,7 +20,8 @@
 
 ## ◈ About
 
-
+| | |
+|---|---|
 | **👤 Name** | João Pedro Beretta Bueno |
 | **💼 Role** | Full Stack Developer & Automation Engineer |
 | **🎓 Degree** | B.Sc. Computer Science — UNIFRAN ✓ |
@@ -74,16 +75,25 @@
 
 ---
 
-## ◈ GitHub Stats
+## ◈ Trophies
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Beretta489&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&rank_icon=github&cache_seconds=1800" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beretta489&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&cache_seconds=1800" />
+<img src="https://github-profile-trophy.vercel.app/?username=Beretta489&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
 
-<br/>
+</div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Beretta489&theme=react-dark&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true" width="100%"/>
+---
+
+## ◈ Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Beretta489/Beretta489/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Beretta489/Beretta489/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Beretta489/Beretta489/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
@@ -121,6 +131,13 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Beretta489&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
 
+<br/>
+
+*"Systems thinking. Clean code. Automation first."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+
+</div>
 <br/>
 
 *"Systems thinking. Clean code. Automation first."*
