@@ -148,8 +148,6 @@
 
 <div align="center">
 
-![Profile Views](https://visitcount.itsvg.in/api?id=Beretta489&label=Profile%20Views&color=1&icon=5&pretty=true)
-
 <br/>
 
 *"Systems thinking. Clean code. Automation first."*
