@@ -6,7 +6,7 @@
 
 ### Full Stack Developer · Automation Engineer · CS Graduate
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=Building+things+that+actually+work.;Web+%7C+Mobile+%7C+Automation+%7C+AI;React+Native+%2B+n8n+%2B+Python+%2B+More.;From+Brazil%2C+%E2%80%94+deploying+everywhere." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=Building+things+that+actually+work.;Web+%7C+Mobile+%7C+Automation+%7C+AI;React+Native+%2B+n8n+%2B+Python+%2B+More.;From+Brazil+%E2%80%94+deploying+everywhere." alt="Typing SVG" />
 
 <br/>
 
