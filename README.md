@@ -1,3 +1,16 @@
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║          JOÃO PEDRO BERETTA BUENO                            ║
+║          Full Stack Developer & Automation Engineer          ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&text=&fontSize=0" width="100%"/>
 
 <div align="center">
@@ -75,27 +88,27 @@
 
 ---
 
-## ◈ Trophies
+## ◈ Currently
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Beretta489&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
-
-</div>
+```text
+🔨  Building     Automated systems & full-stack products
+📖  Studying     Advanced n8n flows & AI integration patterns
+🌍  Looking for  Freelance projects & interesting collaborations
+🎯  Goal 2025    Ship 3 production-ready automation projects
+💬  Ask me about React Native · n8n · Python · App Architecture
+```
 
 ---
 
-## ◈ Contribution Snake
+## ◈ Dev Philosophy
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Beretta489/Beretta489/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Beretta489/Beretta489/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Beretta489/Beretta489/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
+| Principle | How I apply it |
+|---|---|
+| 🧱 **Clean Architecture** | Separation of concerns from day one, not as an afterthought |
+| ⚡ **Automation First** | If I do it twice, I automate it |
+| 🚢 **Ship & Iterate** | Working software over perfect software |
+| 📐 **Design Matters** | UX is not optional — even in internal tools |
+| 🤝 **Open to Learn** | Every project is a chance to add something new to the stack |
 
 ---
 
@@ -131,13 +144,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Beretta489&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
 
-<br/>
-
-*"Systems thinking. Clean code. Automation first."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
-
-</div>
 <br/>
 
 *"Systems thinking. Clean code. Automation first."*
