@@ -15,10 +15,6 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/joão-pedro-beretta-838709212">
-  <img src="https://img.shields.io/badge/─────────────────────────────────────────────────────────────────────-000000?style=flat&logo=&logoColor=white" width="100%"/>
-</a>
-
 # `< João Pedro Beretta Bueno />`
 
 ### Full Stack Developer · Automation Engineer · CS Graduate
@@ -37,17 +33,67 @@
 
 ## ◈ About
 
-```yaml
-name:       João Pedro Beretta Bueno
-role:       Full Stack Developer & Automation Engineer
-degree:     B.Sc. Computer Science — UNIFRAN (Graduated ✓)
-location:   Franca, SP · Brazil
-focus:      Web & Mobile Apps · Workflow Automation · AI Integration
-languages:  Portuguese (native) · English (fluent) · Spanish (intermediate)
-currently:  Building automated systems & scalable full-stack products
-```
+<table>
+  <tr>
+    <td width="50%">
 
-> *"I don't just write code — I design systems that run while you sleep."*
+**👤 Name** &nbsp;&nbsp; João Pedro Beretta Bueno
+
+**💼 Role** &nbsp;&nbsp; Full Stack Developer & Automation Engineer
+
+**🎓 Degree** &nbsp; B.Sc. Computer Science — UNIFRAN ✓
+
+**📍 Location** &nbsp; Franca, SP · Brazil
+
+    </td>
+    <td width="50%">
+
+**🌐 Languages** &nbsp; PT (native) · EN (fluent) · ES (intermediate)
+
+**🔭 Focus** &nbsp;&nbsp;&nbsp; Web · Mobile · Automation · AI
+
+**⚡ Currently** &nbsp; Building automated systems & scalable products
+
+**🏆 Highlight** &nbsp; 1st @ UNIFRAN Hackathon · 4th @ NASA Space Apps
+
+    </td>
+  </tr>
+</table>
+
+> ### *"I don't just write code — I design systems that run while you sleep."*
+
+---
+
+## ◈ What I Build
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <h3>🌐</h3>
+      <strong>Web & Mobile Apps</strong>
+      <br/><br/>
+      Clean architecture with React and React Native. From UI design to production deployment, building products that users actually love.
+    </td>
+    <td align="center" width="25%">
+      <h3>⚡</h3>
+      <strong>Workflow Automation</strong>
+      <br/><br/>
+      End-to-end pipelines with n8n. API integrations, scheduled triggers, and business process automation that scales.
+    </td>
+    <td align="center" width="25%">
+      <h3>🤖</h3>
+      <strong>AI & Data</strong>
+      <br/><br/>
+      Machine learning models, data processing pipelines, and predictive systems. Worked with real NASA Kepler/TESS datasets.
+    </td>
+    <td align="center" width="25%">
+      <h3>🚀</h3>
+      <strong>Rapid Prototyping</strong>
+      <br/><br/>
+      Hackathon-tested delivery. Taking an idea from zero to working demo under pressure — and winning while doing it.
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -83,28 +129,6 @@ currently:  Building automated systems & scalable full-stack products
 
 ---
 
-## ◈ What I Build
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  🌐  Web & Mobile Applications                              │
-│       Clean architecture · React · React Native · Expo      │
-│                                                             │
-│  ⚡  Workflow Automation                                     │
-│       n8n pipelines · API integrations · Process design      │
-│                                                             │
-│  🤖  AI & Data Projects                                     │
-│       ML models · Data processing · Predictive systems       │
-│                                                             │
-│  🚀  Hackathon-Ready Solutions                              │
-│       Fast prototyping · End-to-end delivery                │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
-
 ## ◈ GitHub Stats
 
 <div align="center">
@@ -134,21 +158,44 @@ currently:  Building automated systems & scalable full-stack products
 
 ## ◈ Featured Projects
 
-<div align="center">
-
-[![Cafeteria_Projeto](https://github-readme-stats.vercel.app/api/pin/?username=Beretta489&repo=Cafeteria_Projeto&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9)](https://github.com/Beretta489/Cafeteria_Projeto)
-[![Hackathon-Mundial](https://github-readme-stats.vercel.app/api/pin/?username=Beretta489&repo=Hackathon-Mundial&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9)](https://github.com/Beretta489/Hackathon-Mundial)
-
-[![Hackathon_Win](https://github-readme-stats.vercel.app/api/pin/?username=Beretta489&repo=Hackathon_Win&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9)](https://github.com/Beretta489/Hackathon_Win)
-[![NASA_historico](https://github-readme-stats.vercel.app/api/pin/?username=Beretta489&repo=NASA_historico&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9)](https://github.com/Beretta489/NASA_historico)
-
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>☕ <a href="https://github.com/Beretta489/Cafeteria_Projeto">Cafeteria_Projeto</a></h3>
+      <p>Sistema de auto atendimento de cafeteria — kiosk-style ordering system built with JavaScript. Focused on UX flow and real-world usability.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      &nbsp;
+      <img src="https://img.shields.io/github/stars/Beretta489/Cafeteria_Projeto?style=flat-square&color=58A6FF"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚀 <a href="https://github.com/Beretta489/Hackathon-Mundial">Hackathon-Mundial</a></h3>
+      <p>NASA Space Apps Challenge submission — Python application exploring space data with real API integrations. 4th place finish at Ribeirão Preto.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      &nbsp;
+      <img src="https://img.shields.io/github/stars/Beretta489/Hackathon-Mundial?style=flat-square&color=58A6FF"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏆 <a href="https://github.com/Beretta489/Hackathon_Win">Hackathon_Win</a></h3>
+      <p>The project that won 1st place at the UNIFRAN Hackathon 2024 — built under pressure, delivered with impact.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      &nbsp;
+      <img src="https://img.shields.io/github/stars/Beretta489/Hackathon_Win?style=flat-square&color=58A6FF"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌌 <a href="https://github.com/Beretta489/NASA_historico">NASA_historico</a></h3>
+      <p>Aplicativo usando API da NASA para consultar missões e histórico espacial. Clean JS frontend consuming live NASA data endpoints.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      &nbsp;
+      <img src="https://img.shields.io/github/stars/Beretta489/NASA_historico?style=flat-square&color=58A6FF"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
 <div align="center">
-
-### ◈ Visitors
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Beretta489&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
 
