@@ -33,32 +33,16 @@
 
 ## ◈ About
 
-<table>
-  <tr>
-    <td width="50%">
-
-**👤 Name** &nbsp;&nbsp; João Pedro Beretta Bueno
-
-**💼 Role** &nbsp;&nbsp; Full Stack Developer & Automation Engineer
-
-**🎓 Degree** &nbsp; B.Sc. Computer Science — UNIFRAN ✓
-
-**📍 Location** &nbsp; Franca, SP · Brazil
-
-    </td>
-    <td width="50%">
-
-**🌐 Languages** &nbsp; PT (native) · EN (fluent) · ES (intermediate)
-
-**🔭 Focus** &nbsp;&nbsp;&nbsp; Web · Mobile · Automation · AI
-
-**⚡ Currently** &nbsp; Building automated systems & scalable products
-
-**🏆 Highlight** &nbsp; 1st @ UNIFRAN Hackathon · 4th @ NASA Space Apps
-
-    </td>
-  </tr>
-</table>
+| | |
+|---|---|
+| **👤 Name** | João Pedro Beretta Bueno |
+| **💼 Role** | Full Stack Developer & Automation Engineer |
+| **🎓 Degree** | B.Sc. Computer Science — UNIFRAN ✓ |
+| **📍 Location** | Franca, SP · Brazil |
+| **🌐 Languages** | PT (native) · EN (fluent) · ES (intermediate) |
+| **🔭 Focus** | Web · Mobile · Automation · AI |
+| **⚡ Currently** | Building automated systems & scalable products |
+| **🏆 Highlight** | 1st @ UNIFRAN Hackathon · 4th @ NASA Space Apps |
 
 > ### *"I don't just write code — I design systems that run while you sleep."*
 
@@ -66,34 +50,9 @@
 
 ## ◈ What I Build
 
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <h3>🌐</h3>
-      <strong>Web & Mobile Apps</strong>
-      <br/><br/>
-      Clean architecture with React and React Native. From UI design to production deployment, building products that users actually love.
-    </td>
-    <td align="center" width="25%">
-      <h3>⚡</h3>
-      <strong>Workflow Automation</strong>
-      <br/><br/>
-      End-to-end pipelines with n8n. API integrations, scheduled triggers, and business process automation that scales.
-    </td>
-    <td align="center" width="25%">
-      <h3>🤖</h3>
-      <strong>AI & Data</strong>
-      <br/><br/>
-      Machine learning models, data processing pipelines, and predictive systems. Worked with real NASA Kepler/TESS datasets.
-    </td>
-    <td align="center" width="25%">
-      <h3>🚀</h3>
-      <strong>Rapid Prototyping</strong>
-      <br/><br/>
-      Hackathon-tested delivery. Taking an idea from zero to working demo under pressure — and winning while doing it.
-    </td>
-  </tr>
-</table>
+| 🌐 Web & Mobile | ⚡ Automation | 🤖 AI & Data | 🚀 Rapid Delivery |
+|:---:|:---:|:---:|:---:|
+| React & React Native apps with clean architecture, from UI to production. | End-to-end n8n pipelines, API integrations and business process automation. | ML models, data pipelines and predictive systems with real-world datasets. | Hackathon-tested: idea to working demo, fast — and winning while doing it. |
 
 ---
 
@@ -156,42 +115,19 @@
 
 ---
 
-## ◈ Featured Projects
+## ◈ Services
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>☕ <a href="https://github.com/Beretta489/Cafeteria_Projeto">Cafeteria_Projeto</a></h3>
-      <p>Sistema de auto atendimento de cafeteria — kiosk-style ordering system built with JavaScript. Focused on UX flow and real-world usability.</p>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      &nbsp;
-      <img src="https://img.shields.io/github/stars/Beretta489/Cafeteria_Projeto?style=flat-square&color=58A6FF"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🚀 <a href="https://github.com/Beretta489/Hackathon-Mundial">Hackathon-Mundial</a></h3>
-      <p>NASA Space Apps Challenge submission — Python application exploring space data with real API integrations. 4th place finish at Ribeirão Preto.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      &nbsp;
-      <img src="https://img.shields.io/github/stars/Beretta489/Hackathon-Mundial?style=flat-square&color=58A6FF"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏆 <a href="https://github.com/Beretta489/Hackathon_Win">Hackathon_Win</a></h3>
-      <p>The project that won 1st place at the UNIFRAN Hackathon 2024 — built under pressure, delivered with impact.</p>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      &nbsp;
-      <img src="https://img.shields.io/github/stars/Beretta489/Hackathon_Win?style=flat-square&color=58A6FF"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌌 <a href="https://github.com/Beretta489/NASA_historico">NASA_historico</a></h3>
-      <p>Aplicativo usando API da NASA para consultar missões e histórico espacial. Clean JS frontend consuming live NASA data endpoints.</p>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      &nbsp;
-      <img src="https://img.shields.io/github/stars/Beretta489/NASA_historico?style=flat-square&color=58A6FF"/>
-    </td>
-  </tr>
-</table>
+> Open to freelance & collaboration. Here's what I can deliver:
+
+| Service | Description | Stack |
+|---|---|---|
+| 📱 **Mobile App Development** | Cross-platform apps from scratch — auth, database, UI, deployment | React Native · Expo · Supabase |
+| 🌐 **Web Development** | Full stack web applications with clean architecture and modern UI | React · JavaScript · PHP · MySQL |
+| ⚡ **Workflow Automation** | Automate repetitive business processes, integrate APIs, build pipelines | n8n · Python · REST APIs |
+| 🤖 **AI & Data Integration** | Add ML features to your product or process and analyze data pipelines | Python · TensorFlow · Pandas |
+| 🚀 **MVP / Rapid Prototyping** | Go from idea to working prototype fast — hackathon-tested methodology | Full Stack · Fast Delivery |
+
+📬 **Let's talk:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/joão-pedro-beretta-838709212) [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:joaoberetta_)
 
 ---
 
@@ -206,6 +142,3 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 
 </div>
-
-
-
